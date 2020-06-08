@@ -39,3 +39,21 @@ def dump_tournament_participants():
         with open(filename, "w") as f:
             participants_data = get_tournament_participants(tournament_id)
             json.dump(participants_data, f, indent=4, sort_keys=True)
+
+def load_tournament(tournament_id):
+    filename = "data/{id}.json"
+    with open(filename.format(id=tournament_id)) as f:
+        return json.loads(f.read())
+
+def load_tournament_participants(tournament_id):
+    filename = "data/{id}_participants.json"
+    with open(filename.format(id=tournament_id)) as f:
+        return json.loads(f.read())
+
+def load_tournaments():
+    return [{
+        "id": t_id,
+        "index": tournament_ids.index(t_id) + 1,
+        "matches": load_tournament(t_id),
+        "participants": load_tournament_participants(t_id)
+     } for t_id in tournament_ids]
