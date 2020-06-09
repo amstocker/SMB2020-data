@@ -2,8 +2,8 @@
     {
         "match": {
             "attachment_count": null,
-            "completed_at": "2020-05-10T15:25:55.309-04:00",
-            "created_at": "2020-05-10T14:54:40.184-04:00",
+            "completed_at": "2020-05-10T14:25:55.309-05:00",
+            "created_at": "2020-05-10T13:54:40.184-05:00",
             "forfeited": false,
             "group_id": null,
             "has_attachment": false,
@@ -26,20 +26,20 @@
             "rushb_id": null,
             "scheduled_time": null,
             "scores_csv": "2-0",
-            "started_at": "2020-05-10T15:21:54.746-04:00",
+            "started_at": "2020-05-10T14:21:54.746-05:00",
             "state": "complete",
             "suggested_play_order": 1,
             "tournament_id": 8444600,
             "underway_at": null,
-            "updated_at": "2020-05-10T15:25:55.287-04:00",
+            "updated_at": "2020-05-10T14:25:55.287-05:00",
             "winner_id": 121736129
         }
     },
     {
         "match": {
             "attachment_count": null,
-            "completed_at": "2020-05-10T15:31:31.199-04:00",
-            "created_at": "2020-05-10T14:54:40.189-04:00",
+            "completed_at": "2020-05-10T14:31:31.199-05:00",
+            "created_at": "2020-05-10T13:54:40.189-05:00",
             "forfeited": null,
             "group_id": null,
             "has_attachment": false,
@@ -62,20 +62,20 @@
             "rushb_id": null,
             "scheduled_time": null,
             "scores_csv": "2-0",
-            "started_at": "2020-05-10T15:21:54.764-04:00",
+            "started_at": "2020-05-10T14:21:54.764-05:00",
             "state": "complete",
             "suggested_play_order": 2,
             "tournament_id": 8444600,
             "underway_at": null,
-            "updated_at": "2020-05-10T15:31:31.171-04:00",
+            "updated_at": "2020-05-10T14:31:31.171-05:00",
             "winner_id": 121736127
         }
     },
     {
         "match": {
             "attachment_count": null,
-            "completed_at": "2020-05-10T15:40:06.841-04:00",
-            "created_at": "2020-05-10T14:54:40.191-04:00",
+            "completed_at": "2020-05-10T14:40:06.841-05:00",
+            "created_at": "2020-05-10T13:54:40.191-05:00",
             "forfeited": false,
             "group_id": null,
             "has_attachment": false,
@@ -98,20 +98,20 @@
             "rushb_id": null,
             "scheduled_time": null,
             "scores_csv": "2-0",
-            "started_at": "2020-05-10T15:25:55.304-04:00",
+            "started_at": "2020-05-10T14:25:55.304-05:00",
             "state": "complete",
             "suggested_play_order": 3,
             "tournament_id": 8444600,
             "underway_at": null,
-            "updated_at": "2020-05-10T15:40:06.814-04:00",
+            "updated_at": "2020-05-10T14:40:06.814-05:00",
             "winner_id": 121736105
         }
     },
     {
         "match": {
             "attachment_count": null,
-            "completed_at": "2020-05-10T16:06:06.603-04:00",
-            "created_at": "2020-05-10T14:54:40.195-04:00",
+            "completed_at": "2020-05-10T15:06:06.603-05:00",
+            "created_at": "2020-05-10T13:54:40.195-05:00",
             "forfeited": null,
             "group_id": null,
             "has_attachment": false,
@@ -134,20 +134,20 @@
             "rushb_id": null,
             "scheduled_time": null,
             "scores_csv": "2-1",
-            "started_at": "2020-05-10T15:31:31.186-04:00",
+            "started_at": "2020-05-10T14:31:31.186-05:00",
             "state": "complete",
             "suggested_play_order": 4,
             "tournament_id": 8444600,
             "underway_at": null,
-            "updated_at": "2020-05-10T16:06:06.575-04:00",
+            "updated_at": "2020-05-10T15:06:06.575-05:00",
             "winner_id": 121736107
         }
     },
     {
         "match": {
             "attachment_count": null,
-            "completed_at": "2020-05-10T16:56:34.092-04:00",
-            "created_at": "2020-05-10T14:54:40.198-04:00",
+            "completed_at": "2020-05-10T15:56:34.092-05:00",
+            "created_at": "2020-05-10T13:54:40.198-05:00",
             "forfeited": null,
             "group_id": null,
             "has_attachment": false,
@@ -170,20 +170,20 @@
             "rushb_id": null,
             "scheduled_time": null,
             "scores_csv": "1-3",
-            "started_at": "2020-05-10T16:06:06.588-04:00",
+            "started_at": "2020-05-10T15:06:06.588-05:00",
             "state": "complete",
             "suggested_play_order": 8,
             "tournament_id": 8444600,
             "underway_at": null,
-            "updated_at": "2020-05-10T16:56:33.989-04:00",
+            "updated_at": "2020-05-10T15:56:33.989-05:00",
             "winner_id": 121736107
         }
     },
     {
         "match": {
             "attachment_count": null,
-            "completed_at": "2020-05-10T16:13:31.076-04:00",
-            "created_at": "2020-05-10T14:54:40.200-04:00",
+            "completed_at": "2020-05-10T15:13:31.076-05:00",
+            "created_at": "2020-05-10T13:54:40.200-05:00",
             "forfeited": false,
             "group_id": null,
             "has_attachment": false,
@@ -206,20 +206,20 @@
             "rushb_id": null,
             "scheduled_time": null,
             "scores_csv": "0-2",
-            "started_at": "2020-05-10T16:06:06.599-04:00",
+            "started_at": "2020-05-10T15:06:06.599-05:00",
             "state": "complete",
             "suggested_play_order": 6,
             "tournament_id": 8444600,
             "underway_at": null,
-            "updated_at": "2020-05-10T16:13:31.046-04:00",
+            "updated_at": "2020-05-10T15:13:31.046-05:00",
             "winner_id": 121736150
         }
     },
     {
         "match": {
             "attachment_count": null,
-            "completed_at": "2020-05-10T16:24:27.791-04:00",
-            "created_at": "2020-05-10T14:54:40.204-04:00",
+            "completed_at": "2020-05-10T15:24:27.791-05:00",
+            "created_at": "2020-05-10T13:54:40.204-05:00",
             "forfeited": null,
             "group_id": null,
             "has_attachment": false,
@@ -242,20 +242,20 @@
             "rushb_id": null,
             "scheduled_time": null,
             "scores_csv": "2-0",
-            "started_at": "2020-05-10T15:40:06.835-04:00",
+            "started_at": "2020-05-10T14:40:06.835-05:00",
             "state": "complete",
             "suggested_play_order": 5,
             "tournament_id": 8444600,
             "underway_at": null,
-            "updated_at": "2020-05-10T16:24:27.772-04:00",
+            "updated_at": "2020-05-10T15:24:27.772-05:00",
             "winner_id": 121736129
         }
     },
     {
         "match": {
             "attachment_count": null,
-            "completed_at": "2020-05-10T16:35:01.871-04:00",
-            "created_at": "2020-05-10T14:54:40.206-04:00",
+            "completed_at": "2020-05-10T15:35:01.871-05:00",
+            "created_at": "2020-05-10T13:54:40.206-05:00",
             "forfeited": null,
             "group_id": null,
             "has_attachment": false,
@@ -278,20 +278,20 @@
             "rushb_id": null,
             "scheduled_time": null,
             "scores_csv": "2-0",
-            "started_at": "2020-05-10T16:24:27.786-04:00",
+            "started_at": "2020-05-10T15:24:27.786-05:00",
             "state": "complete",
             "suggested_play_order": 7,
             "tournament_id": 8444600,
             "underway_at": null,
-            "updated_at": "2020-05-10T16:35:01.825-04:00",
+            "updated_at": "2020-05-10T15:35:01.825-05:00",
             "winner_id": 121736150
         }
     },
     {
         "match": {
             "attachment_count": null,
-            "completed_at": "2020-05-10T17:12:29.268-04:00",
-            "created_at": "2020-05-10T14:54:40.209-04:00",
+            "completed_at": "2020-05-10T16:12:29.268-05:00",
+            "created_at": "2020-05-10T13:54:40.209-05:00",
             "forfeited": null,
             "group_id": null,
             "has_attachment": false,
@@ -314,20 +314,20 @@
             "rushb_id": null,
             "scheduled_time": null,
             "scores_csv": "3-0",
-            "started_at": "2020-05-10T16:56:34.032-04:00",
+            "started_at": "2020-05-10T15:56:34.032-05:00",
             "state": "complete",
             "suggested_play_order": 9,
             "tournament_id": 8444600,
             "underway_at": null,
-            "updated_at": "2020-05-10T17:12:29.241-04:00",
+            "updated_at": "2020-05-10T16:12:29.241-05:00",
             "winner_id": 121736105
         }
     },
     {
         "match": {
             "attachment_count": null,
-            "completed_at": "2020-05-10T17:30:41.008-04:00",
-            "created_at": "2020-05-10T14:54:40.212-04:00",
+            "completed_at": "2020-05-10T16:30:41.008-05:00",
+            "created_at": "2020-05-10T13:54:40.212-05:00",
             "forfeited": null,
             "group_id": null,
             "has_attachment": false,
@@ -350,20 +350,20 @@
             "rushb_id": null,
             "scheduled_time": null,
             "scores_csv": "1-3",
-            "started_at": "2020-05-10T17:12:29.260-04:00",
+            "started_at": "2020-05-10T16:12:29.260-05:00",
             "state": "complete",
             "suggested_play_order": 10,
             "tournament_id": 8444600,
             "underway_at": null,
-            "updated_at": "2020-05-10T17:30:40.981-04:00",
+            "updated_at": "2020-05-10T16:30:40.981-05:00",
             "winner_id": 121736105
         }
     },
     {
         "match": {
             "attachment_count": null,
-            "completed_at": "2020-05-10T17:44:28.593-04:00",
-            "created_at": "2020-05-10T14:54:40.214-04:00",
+            "completed_at": "2020-05-10T16:44:28.593-05:00",
+            "created_at": "2020-05-10T13:54:40.214-05:00",
             "forfeited": null,
             "group_id": null,
             "has_attachment": false,
@@ -386,12 +386,12 @@
             "rushb_id": null,
             "scheduled_time": null,
             "scores_csv": "3-1",
-            "started_at": "2020-05-10T17:30:41.001-04:00",
+            "started_at": "2020-05-10T16:30:41.001-05:00",
             "state": "complete",
             "suggested_play_order": 11,
             "tournament_id": 8444600,
             "underway_at": null,
-            "updated_at": "2020-05-10T17:44:28.587-04:00",
+            "updated_at": "2020-05-10T16:44:28.587-05:00",
             "winner_id": 121736105
         }
     }

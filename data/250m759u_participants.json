@@ -10,7 +10,7 @@
             "checked_in": false,
             "checked_in_at": null,
             "confirm_remove": true,
-            "created_at": "2020-04-26T14:14:00.093-04:00",
+            "created_at": "2020-04-26T11:14:00.093-07:00",
             "custom_field_response": null,
             "display_name": "Chase",
             "display_name_with_invitation_email_address": "Chase",
@@ -33,7 +33,7 @@
             "removable": false,
             "seed": 1,
             "tournament_id": 8387477,
-            "updated_at": "2020-04-26T14:14:00.093-04:00",
+            "updated_at": "2020-04-26T11:14:00.093-07:00",
             "username": "Chase"
         }
     },
@@ -48,7 +48,7 @@
             "checked_in": false,
             "checked_in_at": null,
             "confirm_remove": true,
-            "created_at": "2020-04-26T14:14:04.819-04:00",
+            "created_at": "2020-04-26T11:14:04.819-07:00",
             "custom_field_response": null,
             "display_name": "mateo",
             "display_name_with_invitation_email_address": "mateo",
@@ -71,7 +71,7 @@
             "removable": false,
             "seed": 2,
             "tournament_id": 8387477,
-            "updated_at": "2020-04-26T14:14:04.819-04:00",
+            "updated_at": "2020-04-26T11:14:04.819-07:00",
             "username": "mateo"
         }
     },
@@ -86,7 +86,7 @@
             "checked_in": false,
             "checked_in_at": null,
             "confirm_remove": true,
-            "created_at": "2020-04-26T14:14:11.544-04:00",
+            "created_at": "2020-04-26T11:14:11.544-07:00",
             "custom_field_response": null,
             "display_name": "Andrew",
             "display_name_with_invitation_email_address": "Andrew",
@@ -109,7 +109,7 @@
             "removable": false,
             "seed": 3,
             "tournament_id": 8387477,
-            "updated_at": "2020-04-26T14:14:11.544-04:00",
+            "updated_at": "2020-04-26T11:14:11.544-07:00",
             "username": "Andrew"
         }
     },
@@ -124,7 +124,7 @@
             "checked_in": false,
             "checked_in_at": null,
             "confirm_remove": true,
-            "created_at": "2020-04-26T14:14:15.392-04:00",
+            "created_at": "2020-04-26T11:14:15.392-07:00",
             "custom_field_response": null,
             "display_name": "Emilio",
             "display_name_with_invitation_email_address": "Emilio",
@@ -147,7 +147,7 @@
             "removable": false,
             "seed": 4,
             "tournament_id": 8387477,
-            "updated_at": "2020-04-26T14:14:15.392-04:00",
+            "updated_at": "2020-04-26T11:14:15.392-07:00",
             "username": "Emilio"
         }
     },
@@ -162,7 +162,7 @@
             "checked_in": false,
             "checked_in_at": null,
             "confirm_remove": true,
-            "created_at": "2020-04-26T14:14:45.949-04:00",
+            "created_at": "2020-04-26T11:14:45.949-07:00",
             "custom_field_response": null,
             "display_name": "diegoo",
             "display_name_with_invitation_email_address": "diegoo",
@@ -185,7 +185,7 @@
             "removable": false,
             "seed": 5,
             "tournament_id": 8387477,
-            "updated_at": "2020-04-26T14:14:45.949-04:00",
+            "updated_at": "2020-04-26T11:14:45.949-07:00",
             "username": "diegoo"
         }
     },
@@ -200,7 +200,7 @@
             "checked_in": false,
             "checked_in_at": null,
             "confirm_remove": true,
-            "created_at": "2020-04-26T14:15:24.101-04:00",
+            "created_at": "2020-04-26T11:15:24.101-07:00",
             "custom_field_response": null,
             "display_name": "Joel",
             "display_name_with_invitation_email_address": "Joel",
@@ -223,7 +223,7 @@
             "removable": false,
             "seed": 6,
             "tournament_id": 8387477,
-            "updated_at": "2020-04-26T14:15:57.163-04:00",
+            "updated_at": "2020-04-26T11:15:57.163-07:00",
             "username": "Joel"
         }
     },
@@ -238,7 +238,7 @@
             "checked_in": false,
             "checked_in_at": null,
             "confirm_remove": true,
-            "created_at": "2020-04-26T14:15:02.544-04:00",
+            "created_at": "2020-04-26T11:15:02.544-07:00",
             "custom_field_response": null,
             "display_name": "pETER",
             "display_name_with_invitation_email_address": "pETER",
@@ -261,7 +261,7 @@
             "removable": false,
             "seed": 7,
             "tournament_id": 8387477,
-            "updated_at": "2020-04-26T14:15:02.544-04:00",
+            "updated_at": "2020-04-26T11:15:02.544-07:00",
             "username": "pETER"
         }
     },
@@ -276,7 +276,7 @@
             "checked_in": false,
             "checked_in_at": null,
             "confirm_remove": true,
-            "created_at": "2020-04-26T14:15:33.134-04:00",
+            "created_at": "2020-04-26T11:15:33.134-07:00",
             "custom_field_response": null,
             "display_name": "alec",
             "display_name_with_invitation_email_address": "alec",
@@ -299,7 +299,7 @@
             "removable": false,
             "seed": 8,
             "tournament_id": 8387477,
-            "updated_at": "2020-04-26T14:15:33.134-04:00",
+            "updated_at": "2020-04-26T11:15:33.134-07:00",
             "username": "alec"
         }
     }

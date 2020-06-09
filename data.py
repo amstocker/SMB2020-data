@@ -1,6 +1,4 @@
 import json
-from pprint import pprint
-
 import requests
 
 
@@ -57,3 +55,34 @@ def load_tournaments():
         "matches": load_tournament(t_id),
         "participants": load_tournament_participants(t_id)
      } for t_id in tournament_ids]
+
+def build_id_to_name_map():
+    with open("namemap.json") as f:
+        name_map = json.loads(f.read())
+
+    # Build reverse lookup for names
+    reverse_name_map = {}
+    for k, v in name_map.items():
+        for name in v:
+            reverse_name_map[name] = k
+    
+    id_to_name = {}
+    tournaments = load_tournaments()
+    for t in tournaments:
+        participants = t["participants"]
+        for p in participants:
+            p_id = p["participant"]["id"]
+            p_name = p["participant"]["display_name"]
+            id_to_name[p_id] = reverse_name_map[p_name]
+    
+    with open("data/id_to_name.json", "w") as f:
+        json.dump(id_to_name, f, indent=4, sort_keys=True)
+
+def load_id_to_name_map():
+    with open("data/id_to_name.json") as f:
+        return json.loads(f.read())
+
+if __name__ == "__main__":
+    dump_tournaments()
+    dump_tournament_participants()
+    build_id_to_name_map()
