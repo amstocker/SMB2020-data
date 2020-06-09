@@ -90,14 +90,14 @@ def build_simple_csv():
         print(', '.join(title_row), file=f)
         
         for t in tournaments:
-            for m in sorted(t["matches"], key=lambda d: d["match"]["identifier"]):
+            for m in sorted(t["matches"], key=lambda d: d["match"]["suggested_play_order"]):
                 scores = m["match"]["scores_csv"].split('-')
                 winner = None
                 if m["match"]["winner_id"]:
                     winner = id_to_name[str(m["match"]["winner_id"])]
                 row = [
                     t["index"],
-                    m["match"]["identifier"],
+                    m["match"]["suggested_play_order"],
                     id_to_name[str(m["match"]["player1_id"])],
                     id_to_name[str(m["match"]["player2_id"])],
                     scores[0],
@@ -107,9 +107,8 @@ def build_simple_csv():
                 print(', '.join(map(str, row)), file=f)
 
 
-
 if __name__ == "__main__":
-    #dump_tournaments()
-    #dump_tournament_participants()
-    #build_id_to_name_map()
+    dump_tournaments()
+    dump_tournament_participants()
+    build_id_to_name_map()
     build_simple_csv()
